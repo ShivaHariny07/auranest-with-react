@@ -229,7 +229,6 @@ body {
   @apply card;
   position: relative;
   overflow: hidden;
-  group;
 }
 
 .category-card::after {
